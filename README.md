@@ -1,8 +1,10 @@
 # City of Edmonton Land Value Estimation
 
 ## Reports
- - [IEEE Formatted Project Report](report.pdf)
- - [Google Doc Project Report](https://docs.google.com/document/d/1xmQWSsDa5OCwl9u7ln4yNPeCYkE5dnOUOrxTHfczDYc/edit?usp=sharing)
+ - [IEEE Formatted Paper](paper.pdf)
+ - Google Doc Project Report
+   - [Web](https://docs.google.com/document/d/1xmQWSsDa5OCwl9u7ln4yNPeCYkE5dnOUOrxTHfczDYc/edit?usp=sharing)
+   - [PDF](project-report.pdf)
 
 ## Dependencies
 
