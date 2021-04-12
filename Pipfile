@@ -7,8 +7,6 @@ name = "pypi"
 sodapy = "*"
 sklearn = "*"
 numpy = "*"
-matplotlib = "*"
-seaborn = "*"
 
 [dev-packages]
 
