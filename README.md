@@ -1,10 +1,10 @@
 # City of Edmonton Land Value Estimation
 
 ## Reports
- - [IEEE Formatted Paper](paper.pdf)
+ - [IEEE Formatted Paper](https://github.com/jczerwinski/yeg-land-value-estimation/raw/main/paper.pdf)
  - Google Doc Project Report
    - [Web](https://docs.google.com/document/d/1xmQWSsDa5OCwl9u7ln4yNPeCYkE5dnOUOrxTHfczDYc/edit?usp=sharing)
-   - [PDF](project-report.pdf)
+   - [PDF](https://github.com/jczerwinski/yeg-land-value-estimation/raw/main/project-report.pdf)
 
 ## Dependencies
 
